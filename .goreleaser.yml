@@ -32,7 +32,7 @@ builds:
 
 release:
   github:
-    owner: cgascoig
+    owner: bshapiro4254 
     name: isctl
   draft: false
   prerelease: auto
